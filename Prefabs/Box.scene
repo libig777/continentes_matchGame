@@ -1,0 +1,32 @@
+{
+    "id": "35557820-e765-44fb-be50-a9a66c2c084a",
+    "sceneType": "PREFAB",
+    "settings": {
+        "preloadMethodName": "",
+        "preloadPackFiles": [],
+        "createMethodName": ""
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "a082bed1-a8f7-4a49-a198-e23237252751",
+            "label": "crate_06",
+            "components": [
+                "Physics",
+                "DepthSortY",
+                "ItemHolder"
+            ],
+            "Physics.static": true,
+            "Physics.height": 32,
+            "Physics.offsetY": 32,
+            "texture": {
+                "key": "crate_06"
+            }
+        }
+    ],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType"
+    }
+}
