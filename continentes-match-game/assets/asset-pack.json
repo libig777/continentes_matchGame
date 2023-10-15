@@ -1,0 +1,226 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/Level.js",
+                "type": "sceneFile",
+                "key": "Level"
+            },
+            {
+                "url": "assets/player_01.png",
+                "type": "image",
+                "key": "player_01"
+            },
+            {
+                "url": "assets/player_02.png",
+                "type": "image",
+                "key": "player_02"
+            },
+            {
+                "url": "assets/player_03.png",
+                "type": "image",
+                "key": "player_03"
+            },
+            {
+                "url": "assets/player_04.png",
+                "type": "image",
+                "key": "player_04"
+            },
+            {
+                "url": "assets/player_11.png",
+                "type": "image",
+                "key": "player_11"
+            },
+            {
+                "url": "assets/player_12.png",
+                "type": "image",
+                "key": "player_12"
+            },
+            {
+                "url": "assets/player_13.png",
+                "type": "image",
+                "key": "player_13"
+            },
+            {
+                "url": "assets/player_14.png",
+                "type": "image",
+                "key": "player_14"
+            },
+            {
+                "url": "assets/player_15.png",
+                "type": "image",
+                "key": "player_15"
+            },
+            {
+                "url": "assets/player_16.png",
+                "type": "image",
+                "key": "player_16"
+            },
+            {
+                "url": "assets/player_23.png",
+                "type": "image",
+                "key": "player_23"
+            },
+            {
+                "url": "assets/player_24.png",
+                "type": "image",
+                "key": "player_24"
+            },
+            {
+                "url": "assets/player-animations.json",
+                "type": "animation",
+                "key": "player-animations"
+            },
+            {
+                "url": "components/Movement.js",
+                "type": "script",
+                "key": "Movement"
+            },
+            {
+                "url": "components/Physics.js",
+                "type": "script",
+                "key": "Physics"
+            },
+            {
+                "url": "assets/crate_03.png",
+                "type": "image",
+                "key": "crate_03"
+            },
+            {
+                "url": "assets/crate_04.png",
+                "type": "image",
+                "key": "crate_04"
+            },
+            {
+                "url": "assets/crate_05.png",
+                "type": "image",
+                "key": "crate_05"
+            },
+            {
+                "url": "assets/crate_06.png",
+                "type": "image",
+                "key": "crate_06"
+            },
+            {
+                "url": "Prefabs/Box.js",
+                "type": "script",
+                "key": "Box"
+            },
+            {
+                "url": "components/DepthSortY.js",
+                "type": "script",
+                "key": "DepthSortY"
+            },
+            {
+                "url": "assets/chicken.png",
+                "type": "image",
+                "key": "chicken"
+            },
+            {
+                "url": "assets/bear.png",
+                "type": "image",
+                "key": "bear"
+            },
+            {
+                "url": "assets/duck.png",
+                "type": "image",
+                "key": "duck"
+            },
+            {
+                "url": "assets/parrot.png",
+                "type": "image",
+                "key": "parrot"
+            },
+            {
+                "url": "assets/penguin.png",
+                "type": "image",
+                "key": "penguin"
+            },
+            {
+                "url": [
+                    "components/Action.js"
+                ],
+                "type": "scripts",
+                "key": "Action"
+            },
+            {
+                "url": [
+                    "components/ItemHolder.js"
+                ],
+                "type": "scripts",
+                "key": "ItemHolder"
+            },
+            {
+                "url": "components/Countdown.js",
+                "type": "script",
+                "key": "Countdown"
+            },
+            {
+                "url": "assets/america.png",
+                "type": "image",
+                "key": "america"
+            },
+            {
+                "url": "assets/africa.png",
+                "type": "image",
+                "key": "africa"
+            },
+            {
+                "url": "assets/africa02.png",
+                "type": "image",
+                "key": "africa02"
+            },
+            {
+                "url": "assets/america02.png",
+                "type": "image",
+                "key": "america02"
+            },
+            {
+                "url": "assets/antartida.png",
+                "type": "image",
+                "key": "antartida"
+            },
+            {
+                "url": "assets/antartida02.png",
+                "type": "image",
+                "key": "antartida02"
+            },
+            {
+                "url": "assets/asia.png",
+                "type": "image",
+                "key": "asia"
+            },
+            {
+                "url": "assets/asia02.png",
+                "type": "image",
+                "key": "asia02"
+            },
+            {
+                "url": "assets/europa.png",
+                "type": "image",
+                "key": "europa"
+            },
+            {
+                "url": "assets/europa02.png",
+                "type": "image",
+                "key": "europa02"
+            },
+            {
+                "url": "assets/oceania.png",
+                "type": "image",
+                "key": "oceania"
+            },
+            {
+                "url": "assets/oceania02.png",
+                "type": "image",
+                "key": "oceania02"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2
+    }
+}

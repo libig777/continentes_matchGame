@@ -1,0 +1,101 @@
+{
+    "components": [
+        {
+            "name": "Movement",
+            "baseClass": "",
+            "gameObjectType": "Phaser.GameObjects.Sprite",
+            "properties": []
+        },
+        {
+            "name": "Physics",
+            "baseClass": "",
+            "gameObjectType": "Phaser.GameObjects.Image",
+            "properties": [
+                {
+                    "name": "static",
+                    "label": "Is Static",
+                    "tooltip": "Is Static",
+                    "defValue": false,
+                    "type": {
+                        "id": "boolean"
+                    }
+                },
+                {
+                    "name": "width",
+                    "label": "Width",
+                    "tooltip": "Width",
+                    "defValue": 64,
+                    "type": {
+                        "id": "number"
+                    }
+                },
+                {
+                    "name": "height",
+                    "label": "Height",
+                    "tooltip": "Height",
+                    "defValue": 64,
+                    "type": {
+                        "id": "number"
+                    }
+                },
+                {
+                    "name": "offsetX",
+                    "label": "OffsetX",
+                    "tooltip": "OffsetX",
+                    "defValue": 0,
+                    "type": {
+                        "id": "number"
+                    }
+                },
+                {
+                    "name": "offsetY",
+                    "label": "OffsetY",
+                    "tooltip": "OffsetY",
+                    "defValue": 0,
+                    "type": {
+                        "id": "number"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "DepthSortY",
+            "baseClass": "",
+            "gameObjectType": "Phaser.GameObjects.Image",
+            "properties": []
+        },
+        {
+            "name": "ItemHolder",
+            "baseClass": "",
+            "gameObjectType": "Phaser.GameObjects.Image",
+            "properties": [
+                {
+                    "name": "itemName",
+                    "label": "Item Name",
+                    "tooltip": "Item Name",
+                    "defValue": "bear",
+                    "type": {
+                        "id": "string"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Action",
+            "baseClass": "",
+            "gameObjectType": "Phaser.GameObjects.Sprite",
+            "properties": []
+        },
+        {
+            "name": "Countdown",
+            "baseClass": "",
+            "gameObjectType": "Phaser.GameObjects.Text",
+            "properties": []
+        }
+    ],
+    "meta": {
+        "app": "Phaser Editor 2D - Object Script Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType"
+    }
+}
